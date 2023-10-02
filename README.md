@@ -24,7 +24,7 @@ Feel free to explore the code, learn from my projects, or contribute to our know
 
 This repository is designed for anyone interested in higher-level programming. You can use it to:
 
-Learn from our projects and code examples.
+Learn from my projects and code examples.
 Contribute to existing projects or create your own.
 Collaborate with other Alx School students and programmers.
 Showcase your programming skills.
