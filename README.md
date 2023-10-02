@@ -1,5 +1,4 @@
 # alx-higher_level_programming
----
 
 Welcome to the **alx-higher_level_programming** repository! This is where I'll be showcasing my jorney threough the world of higher-level programming.
 
