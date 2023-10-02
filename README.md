@@ -20,7 +20,7 @@ Feel free to explore the code, learn from my projects, or contribute to our know
 - Contributions from Alx School students and programming enthusiasts.
 - A collaborative learning environment.
 
-##Usage
+## Usage
 
 This repository is designed for anyone interested in higher-level programming. You can use it to:
 
