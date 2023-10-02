@@ -8,15 +8,11 @@ Welcome to the **alx-higher_level_programming** repository! This is where I'll b
 - [Features](#features)
 - [Usage](#usage)
 
----
-
 ## Introduction
 
 **alx-higher_level_programming** is a collection of code, projects, and assignments related to higher-level programming languages. As an ALX  student, I'm passionate about honing our skills in languages like Python, JavaScript, and more. This repository serves as a portfolio of our learning journey, showcasing various projects and exercises.
 
 Feel free to explore the code, learn from my projects, or contribute to our knowledge.
-
----
 
 ## Features
 
@@ -24,8 +20,6 @@ Feel free to explore the code, learn from my projects, or contribute to our know
 - Detailed explanations and comments to help you understand my code.
 - Contributions from Alx School students and programming enthusiasts.
 - A collaborative learning environment.
-
----
 
 ##Usage
 
