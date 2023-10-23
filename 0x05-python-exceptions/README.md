@@ -1,4 +1,4 @@
-# 0x05 Python Exceptions
+# 0x05. Python - Exceptions
 
 This project is designed to help you understand and practice working with exceptions in Python. You will learn how to handle errors and exceptions, raise exceptions, and work with different types of Python objects. Below are the tasks included in this project:
 
