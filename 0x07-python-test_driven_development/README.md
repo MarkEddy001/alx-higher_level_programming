@@ -2,6 +2,48 @@
 
 This project is aimed at improving your Python programming skills and reinforcing the principles of Test-Driven Development (TDD). In this README, you will find essential information about the project, including its objectives, requirements, and guidelines.
 
+Project Objectives
+By the end of this project, you should be able to:
+
+General
+Understand why Python programming is awesome.
+Define what an interactive test is.
+Recognize the importance of writing tests.
+Learn how to write Docstrings to create tests.
+Understand how to write documentation for modules and functions.
+Identify the basic option flags to create tests.
+Learn how to find edge cases in your code.
+Project Guidelines
+Python Scripts
+You can use editors like vi, vim, or emacs to write your Python scripts.
+All Python files should be interpreted/compiled on Ubuntu 20.04 LTS using Python 3.8.5.
+Ensure that all your files end with a new line.
+Start each Python file with the shebang line: #!/usr/bin/python3.
+Include a README.md file at the root of your project folder.
+Adhere to the PEP 8 style guide by using pycodestyle (version 2.8.*).
+All your Python files must be executable.
+The length of your Python files will be tested using wc.
+Python Test Cases
+Test files should end with a new line and be placed inside a folder named tests.
+All test files should have a text file extension (e.g., .txt).
+Execute your tests using the command: python3 -m doctest ./tests/*.
+Ensure that all your Python modules have documentation, which can be checked using python3 -c 'print(__import__("my_module").__doc__)'.
+Document your functions with meaningful and informative Docstrings, which can be checked using python3 -c 'print(__import__("my_module").my_function.__doc__)'.
+Collaboration and Plagiarism
+Collaboration on test cases is encouraged, but avoid collaborating on the implementation.
+Do not trust the user's input; always consider and test for all possible edge cases.
+Avoid plagiarism; coming up with your own solutions is essential for your learning process.
+Resources
+Make sure to read or watch the following resources to better understand the concepts and tools related to this project:
+
+doctest — Test interactive Python examples (up to "26.2.3.7. Warnings" included)
+doctest – Testing through documentation
+Unit Tests in Python
+Unittest module
+Interactive and Non-interactive tests
+Conclusion
+This project is an excellent opportunity to enhance your Python programming skills and grasp the significance of writing tests. Following the guidelines and collaborating on test cases will help you become a more proficient Python developer. Remember to work diligently, learn from the resources provided, and, most importantly, enjoy the process of coding and testing. Good luck!
+
 ## Tests :heavy_check_mark:
 
 * [tests](./tests): Folder of test files. Includes both Holberton-provided ones as well as the following eight independently-developed:
