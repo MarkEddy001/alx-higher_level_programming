@@ -1,6 +1,6 @@
 ![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/246/giphy-4.gif)
 
-In this project, I started practicing test-driven development using `docstring`and `unittest` in Python.
+This project is aimed at improving your Python programming skills and reinforcing the principles of Test-Driven Development (TDD). In this README, you will find essential information about the project, including its objectives, requirements, and guidelines.
 
 ## Tests :heavy_check_mark:
 
