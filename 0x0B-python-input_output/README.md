@@ -1,5 +1,7 @@
 # Python - Input/Output
 
+https://realpython.com/cdn-cgi/image/width=640,format=auto/https://files.realpython.com/media/Basic-Input-Output-and-String-Formatting-in-Python_Watermarked.65ba5b535841.jpg
+
 In this project, I practiced file handling in Python. I used the builtin `with`, `open`, and `read` functions with the `json` module to read and write files and serialize and deserialize objects with JSON.
 
 ## `NOTE: You have to make all files EXECUTABLE`
