@@ -68,13 +68,7 @@ After completing this project, you should be able to:
 - README.md file at the project's root.
 
 ## Installation
-To set up MySQL 8.0 on Ubuntu 20.04 LTS, use the following commands:
 
-```bash
-$ sudo apt update
-$ sudo apt install mysql-server
-$ mysql --version
-```
 ### Comments for your SQL file:
 
 ```
