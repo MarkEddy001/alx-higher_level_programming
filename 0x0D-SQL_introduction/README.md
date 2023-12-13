@@ -38,6 +38,8 @@ Welcome to the SQL Introduction project by Guillaume for ALX School. In this pro
 - SQL
 - MySQL
 
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/272/rtcwz.jpg)
+
 ## Resources
 - [What is Database & SQL?](link)
 - [A Basic MySQL Tutorial](link)
