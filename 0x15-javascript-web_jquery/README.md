@@ -123,5 +123,5 @@ Feel free to reach out to your peers, instructors, or the community for assistan
   - [103-script.js](103-script.js)
 
 ## Author
-This project is authored by Wanyoike mark Edwards, ALX, Nairobi.
+This project is authored by ``Wanyoike Mark Edwards``, ALX, Nairobi.
 
